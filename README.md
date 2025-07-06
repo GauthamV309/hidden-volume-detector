@@ -175,9 +175,12 @@ This project is licensed under the **MIT License**.
 **Gautham.V**
 Cybersecurity & Forensics Enthusiast
 📧 \[[vgautham2000@gmail.com](mailto:vgautham2000@gmail.com)]
-🔗 [LinkedIn]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/gautham-v-7a903b249/))
+🔗 [LinkedIn]([https://www.linkedin.com/in/gautham-v-7a903b249/](https://www.linkedin.com/in/gautham-v-7a903b249/))
 
 ---
+
+📝Note
+I am still in learning stages in cybersecurity, and there is a high chance that my code might not work as intended. However if you spot any scope for improvement or errors in my project, please don't hesitate to reach out to me. Hope this helps... Cheers.
 
  ⭐️ Contributions
 
