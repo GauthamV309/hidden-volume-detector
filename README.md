@@ -165,19 +165,8 @@ Cybersecurity & Forensics Enthusiast
 
 📝Note
 I am still in learning stages in cybersecurity, and there is a high chance that my code might not work as intended. However if you spot any scope for improvement or errors in my project, please don't hesitate to reach out to me. Hope this helps... Cheers.
-
+```
  ⭐️ Contributions
 
 Want to improve or extend the tool? Fork the repo and submit a pull request!
-
-```
-
----
-
-Would you like:
-- A `requirements.txt` auto-generated from the current modules?
-- Sample `yara_rules.yar` to include in `signature_db/`?
-- Markdown badges (Python version, License, etc.)?
-
-Let me know and I can include those too.
 ```
