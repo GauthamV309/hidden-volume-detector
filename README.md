@@ -110,22 +110,6 @@ hidden_detector/
 
 ---
 
- 📊 Sample Output
-
-```bash
-[2025-07-06 12:00:23] [*] Scanning disk image: suspect.img
-[2025-07-06 12:00:24] [!] High entropy region found at offset 0x200000
-[2025-07-06 12:00:24] [!] VeraCrypt signature match
-```
-
-```bash
-[2025-07-06 12:03:11] [*] Analyzing image.jpg
-[2025-07-06 12:03:12] [!] High entropy: 7.91
-[2025-07-06 12:03:12] [!] steghide signature detected
-```
-
----
-
  📦 Dependencies
 
 * Python 3.7+
